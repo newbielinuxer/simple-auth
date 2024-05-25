@@ -1,0 +1,29 @@
+{
+  "name": "simple-auth",
+  "version": "1.0.0",
+  "description": "A simple npm module for user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newbielinuxer/simple-auth.git"
+  },
+  "keywords": [
+    "authentication",
+    "auth",
+    "jwt",
+    "bcrypt"
+  ],
+  "author": "NewbieLinuxer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/simple-auth/issues"
+  },
+  "homepage": "https://github.com/yourusername/simple-auth#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
