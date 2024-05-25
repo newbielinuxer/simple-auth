@@ -19,9 +19,9 @@
   "author": "nelweed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yourusername/simple-auth/issues"
+    "url": "https://github.com/newbielinuxer/simple-auth/issues"
   },
-  "homepage": "https://github.com/yourusername/simple-auth#readme",
+  "homepage": "https://github.com/newbielinuxer/simple-auth#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "jsonwebtoken": "^9.0.0"
