@@ -16,7 +16,7 @@
     "jwt",
     "bcrypt"
   ],
-  "author": "NewbieLinuxer",
+  "author": "nelweed",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/yourusername/simple-auth/issues"
